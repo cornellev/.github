@@ -1,3 +1,5 @@
+![Cuckoo Caravan in a dim garage with bright headlights facing the camera like a batmobile](/banner.png)
+
 ## About Us
 
 Cornell Electric Vehicles has a history of working on the bleeding edge of the automotive industry. Founded in 2014, we've been pushing the limits of electric power starting before it went mainstream, and we've begun exploring autonomous driving as well.
