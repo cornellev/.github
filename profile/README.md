@@ -7,6 +7,3 @@ As a team, we participate in the [Shell Eco Marathon](https://www.shellecomarath
 ## For Team Members
 
 For general and subteam-specific guidance, see the [documentation](/DOCUMENTATION.md) file.
-
-> [!NOTE]
-> The transition from the previous GitHub Enterprise organization to this one is still ongoing. The last year's worth of repositories have been copied over here. The GitHub Enterprise organization can still be accessed [here](https://github.coecis.cornell.edu/Resistance-Racing).
